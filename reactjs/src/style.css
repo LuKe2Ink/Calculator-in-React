@@ -1,0 +1,23 @@
+table{
+    border: 10px solid white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.cell > td{
+    background-color: #d6d6d6;
+    width: 80px;
+}
+
+.display{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: right;
+    font-weight: normal;
+}
+
+.operator{
+    background-color: #fe940f!important;
+    color: white!important;
+    width: 60px!important;
+}
