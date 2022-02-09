@@ -11,7 +11,7 @@ cd react-js
 After that initialize the app:
 
 ```
-npm initi
+npm install
 ```
 
 And, last thing, start the app with:
