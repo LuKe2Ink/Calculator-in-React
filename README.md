@@ -1,6 +1,6 @@
 # Calculator-in-React
 
-The calculator does not calculate expression like the previous calculator, you have to digit the first number, click the operation, digit the second and you have to click equal
+Does not calculate expression like the previous calculator, you have to digit the first number, click the operation, digit the second and you have to click equal
 
 For run this project make sure that you have installed node.js
 
