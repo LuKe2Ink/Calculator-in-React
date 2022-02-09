@@ -6,7 +6,6 @@ Go into the directory of the app with:
 
 ```
 cd react-js
-
 ```
 
 After that initialize the app:
